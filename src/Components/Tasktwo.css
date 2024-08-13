@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.back{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height:600px;
+    width:600px;
+    background-color: black;
+}
+.pic{
+    display: flex;
+    
+    height: 200px;
+    width: 200px;
+}
+.rcb{
+    height: 200px;
+    width: 200px;
+    margin-left: 120px;
+    
+    margin-top: 200px;
+}
+.csk{
+    height: 200px;
+    width: 200px;
+    margin-top: 200px;
+}
+.text{
+    position: relative;
+    top:140px;
+    text-align: center;
+    color: white;
+}
